@@ -112,4 +112,7 @@ padding: 40px;
   form{
       width: 85%;
   }
+  .img{
+      width: 100%;
+  }
 }
