@@ -48,8 +48,7 @@ h2 {
   font-family: "Segoe UI", Arial, sans-serif;
   font-weight: 400;
   font-size: 30px;
-  padding-top: 70px;
-  padding-bottom: 70px;
+  padding: 40px 0px;
 }
 .parent3 {
   text-align: center;
@@ -109,5 +108,8 @@ padding: 40px;
   }
   .parent2 {
     width: 100%;
+  }
+  form{
+      width: 85%;
   }
 }
